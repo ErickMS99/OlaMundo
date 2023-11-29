@@ -1,0 +1,10 @@
+Abrir os olhos
+Levantar da cama 
+Abrir a porta 
+  esta aberta?
+  girar a masaneta
+  puxar a masaneta
+Esta fechada?
+  girar a chave 
+  girar a masaneta
+  puxar a masaneta
